@@ -1,4 +1,4 @@
-# StoryGAN: A Sequential Conditional GAN for Story Visualization
+# StoryGAN: A Sequential Conditional GAN for Story Visualization - Python 3.6 version
 Original Repo: 
 https://github.com/yitong91/StoryGAN.git
 
